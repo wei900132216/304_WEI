@@ -1,0 +1,10 @@
+.Selector select {
+    width: 50%;
+    height: 40px;
+    font-size: 16px;
+    padding: 0 8px;
+    margin: 8px 0;
+    border-radius: 4px;
+  }
+
+  
